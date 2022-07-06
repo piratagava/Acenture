@@ -103,11 +103,11 @@
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="transbordador" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Recuperación de Evidencia $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Recuperación Recuperación de Evidencia $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="entrega" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Recolección $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Recolección Recolección Recolección $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="recoleccion" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
