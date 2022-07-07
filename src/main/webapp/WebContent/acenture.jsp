@@ -107,7 +107,7 @@
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="entrega" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Recolección Recolección Recolección Recolección Recolección $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b> Recolecciónv Recolección Recolección Recolección Recolección Recolección Recolección $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="recoleccion" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
@@ -123,7 +123,7 @@
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="total" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Retención $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b> Retención Retención Retención $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="retencion" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
@@ -137,7 +137,7 @@
 </table>
 </div>
 		<div id="guarda" class="mb-2 mr-sm-2">
-			<button type="button" class="btn btn-dark btn-sm active" onclick="GuardarFleteCalculado();">Guardar</button>
+			<button type="button" class="btn btn-dark btn-sm active" onclick="GuardarFleteCalculado();">Guardar </button>
 			<button type="button" id="botonEliminar3" class="btn btn-dark btn-sm active" title="" onclick="eliminaTalonLogico(3);">Eliminar</button>
 		</div>
 <div id="espera1">
