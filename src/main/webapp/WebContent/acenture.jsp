@@ -45,7 +45,7 @@
 					<td class="letra" style="width: 120px;"><input id="ValorTransbordador" onFocus="doClear(this)" disabled="disabled" onkeypress="return numerosConPunto(event, this)" value="0.00" placeholder="0.00" class="letra" type="text" style="width: 120px;text-align:right;" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Valor Recolección $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Valor Recolección Recolección Recolección $</b></td>
 					<td class="letra" style="width: 120px;"><input id="ValorRecoleccion" onFocus="doClear(this)" onkeypress="return numerosConPunto(event, this)" value="0.00"onkeypress="return numerosConPunto(event, this)" placeholder="0.00" class="letra" type="text" style="width: 120px;text-align:right;" maxlength="10"></td>
 				</tr>
 			</table>
