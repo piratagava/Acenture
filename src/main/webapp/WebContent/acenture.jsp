@@ -45,7 +45,7 @@
 					<td class="letra" style="width: 120px;"><input id="ValorTransbordador" onFocus="doClear(this)" disabled="disabled" onkeypress="return numerosConPunto(event, this)" value="0.00" placeholder="0.00" class="letra" type="text" style="width: 120px;text-align:right;" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Valor Recolecci髇 $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Valor Recolecci贸n $</b></td>
 					<td class="letra" style="width: 120px;"><input id="ValorRecoleccion" onFocus="doClear(this)" onkeypress="return numerosConPunto(event, this)" value="0.00"onkeypress="return numerosConPunto(event, this)" placeholder="0.00" class="letra" type="text" style="width: 120px;text-align:right;" maxlength="10"></td>
 				</tr>
 			</table>
@@ -65,8 +65,8 @@
 					
 					<td class="letra ocultar" id="vccuracretoTD" style="width: 350px; margin-left: 40px;"align="right"><input id="vccuracreto" type="checkbox" class="form-check-input" onchange="habilitaCuracretoViajeCompleto();" value=""><b>Viaje Completo</b></td><!-- Completo curacreto -->
 					<td class="letra ocultar" id="vccuracretocombinadoTD" style="width: 350px; margin-left: 40px;"align="right"><input id="vccuracretocombinado" type="checkbox" class="form-check-input" onchange="habilitaCuracretoViajeCombinado();" value=""><b>Viaje Combinado</b></td><!-- Combinado curacreto -->
-					<td class="letra ocultar" id="trailerTD" style="width: 350px; margin-left: 40px;"align="right"><input id="trailer" type="checkbox" class="form-check-input" onchange="OpcionCuracreto();" value=""><b>Canc鷑</b></td><!-- trailer curacreto -->
-					<td class="letra ocultar" id="torthonTD" style="width: 350px; margin-left: 40px;"align="right"><input id="torthon" type="checkbox" class="form-check-input" onchange="OpcionCuracreto();" value=""><b>M閞ida</b></td><!-- torthon curacreto-->
+					<td class="letra ocultar" id="trailerTD" style="width: 350px; margin-left: 40px;"align="right"><input id="trailer" type="checkbox" class="form-check-input" onchange="OpcionCuracreto();" value=""><b>Canc煤n Canc煤n Canc煤n Canc煤n Canc煤n</b></td><!-- trailer curacreto -->
+					<td class="letra ocultar" id="torthonTD" style="width: 350px; margin-left: 40px;"align="right"><input id="torthon" type="checkbox" class="form-check-input" onchange="OpcionCuracreto();" value=""><b>M茅rida M茅rida M茅rida M茅rida</b></td><!-- torthon curacreto-->
 					
 					<td class="letra ocultar" id="combinadomayorTD" style="width: 350px; margin-left: 40px;"align="right"><input id="combinadomayor" type="checkbox" class="form-check-input" onchange="OpcionCuracretoCombinado();" value=""><b>Mayor Peso</b></td><!-- combinado mayor curacreto-->
 					<td class="letra ocultar" id="combinadomenorTD" style="width: 350px; margin-left: 40px;"align="right"><input id="combinadomenor" type="checkbox" class="form-check-input" onchange="OpcionCuracretoCombinado();" value=""><b>Menor Peso</b></td><!-- combinado menor curacreto-->
@@ -103,11 +103,11 @@
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="transbordador" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Recuperaci髇 Recuperaci髇 de Evidencia $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Recuperaci贸n Recuperaci贸n de Evidencia  Recuperaci贸n Recuperaci贸n de Evidencia$</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="entrega" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Recolecci髇 Recolecci髇 Recolecci髇 $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Recolecci贸n Recolecci贸n Recolecci贸n Recolecci贸n Recolecci贸n $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="recoleccion" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
@@ -123,7 +123,7 @@
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="total" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
-					<td class="letra" style="width: 300px;"align="right"><b>Retenci髇 $</b></td>
+					<td class="letra" style="width: 300px;"align="right"><b>Retenci贸n $</b></td>
 					<td class="letra" style="width: 120px;"><input disabled="disabled" placeholder="0.00" id="retencion" class="letra" type="text" style="width: 120px;text-align:right; border: 0;  background-color: transparent" maxlength="10"></td>
 				</tr>
 				<tr>
